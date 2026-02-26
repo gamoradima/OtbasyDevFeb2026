@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "b4151474-4d5a-455c-8433-ecb63c0851ed",
+    "Name": "UsrYacht_ListPage",
+    "ModifiedOnUtc": "\/Date(1772094798000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница с реестром Яхты"
+  }
+}

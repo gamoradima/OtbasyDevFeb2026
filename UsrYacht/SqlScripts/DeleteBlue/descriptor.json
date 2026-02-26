@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "5bb0985c-69d2-7ac3-9a75-237b5da56fe3",
+    "Name": "DeleteBlue",
+    "DBEngineType": 2,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1772010379000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

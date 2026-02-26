@@ -3,8 +3,16 @@
     "UId": "0b5964c9-88df-40cb-8c38-e430f539961c",
     "Name": "UsrYacht",
     "Type": 1,
+    "ModifiedOnUtc": "\/Date(1772001857000)\/",
     "Maintainer": "Customer",
     "ProjectPath": "Files/UsrYacht.csproj",
-    "DependsOn": []
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      }
+    ]
   }
 }
