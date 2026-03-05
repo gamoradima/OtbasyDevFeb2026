@@ -3,6 +3,21 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Яхты form page" />
+			<Item Name="LocalizableStrings.ActionsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.Button_ecrfk4j_clicked_params_messageTextAfterCompletion.Value" Value="Данные сохранены" />
+			<Item Name="LocalizableStrings.ExpansionPanel_4lcf450_title.Value" Value="Аренда яхты" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_6ctk6vc_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_b6vko1i_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_o3t0hn4_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_89ps49v_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_69lusqc_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_2w6e4nx_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.ManagerEmail_caption.Value" Value="Email адрес" />
+			<Item Name="LocalizableStrings.ManagerEmail_label.Value" Value="Email менеджера" />
+			<Item Name="LocalizableStrings.PassengersCountCannotBeLess.Value" Value="Количество пассажиров должно быть не меньше 2." />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Цена должна быть не меньше 100" />
+			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Нажми меня!" />
+			<Item Name="LocalizableStrings.RunProcessCalcTicketMenuItem_caption.Value" Value="Запуск процесса расчета средней цены билета" />
 			<Item Name="LocalizableStrings.addRecord_0rhlz4s_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_q8fdqri_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_zvptnjj_caption.Value" Value="Добавить" />

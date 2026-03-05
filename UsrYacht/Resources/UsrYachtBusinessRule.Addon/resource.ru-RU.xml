@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.acf5253d-6888-8465-9370-d0df6cd54dc8.Caption" Value="Установить значения: Цена билета" />
+			<Item Name="AddonConfig.Rules.c7b7d16e-3d89-8235-25c5-8d003cf6e71e.Caption" Value="Установить статический фильтр: Менеджер" />
+			<Item Name="Caption" Value="Яхты (Бизнес правила)" />
+		</Items>
+	</Group>
+</Resources>

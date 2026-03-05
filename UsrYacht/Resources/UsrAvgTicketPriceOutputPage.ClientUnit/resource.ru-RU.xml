@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница вывода результатов расчета средней цены билета" />
+			<Item Name="Parameters.2d825fcc-049f-2bf2-30d0-5cb9af6c5d24.Caption" Value="SQL text" />
+			<Item Name="Parameters.d419228c-c38c-913e-6150-008b632b8d7f.Caption" Value="Средняя цена билета" />
+		</Items>
+	</Group>
+</Resources>

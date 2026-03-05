@@ -7,3 +7,4 @@ C:\Academy\Builds\OtbasyDev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrYach
 C:\Academy\Builds\OtbasyDev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrYacht\Files\obj\Release\UsrYacht.csproj.CoreCompileInputs.cache
 C:\Academy\Builds\OtbasyDev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrYacht\Files\obj\Release\UsrYacht.dll
 C:\Academy\Builds\OtbasyDev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrYacht\Files\obj\Release\UsrYacht.pdb
+C:\Academy\Builds\OtbasyDev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrYacht\Files\obj\Release\UsrYacht.sourcelink.json
